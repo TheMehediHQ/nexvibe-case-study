@@ -12,7 +12,10 @@
 ---
 
 > **🔒 Confidentiality & NDA Disclosure:**  
-> The client's original codebase and proprietary business algorithms are protected under Non-Disclosure Agreements (NDAs) and enterprise security policies. To respect client intellectual property while demonstrating technical expertise, system design, and software craftsmanship to recruiters and engineering leads, this repository serves as a **complete, standalone technical case study**.
+> The original production codebase and client business algorithms are protected under Non-Disclosure Agreements (NDAs) and the previous company's enterprise privacy policies. As a result, the source repository cannot be made publicly accessible.  
+>  
+> **For HR Managers, Technical Recruiters & Interviewers:**  
+> If you are evaluating my profile for an engineering role and would like to review the real codebase, inspect component architecture, or schedule a technical walkthrough, please reach out directly at **[hello@mehedi-hasan.me](mailto:hello@mehedi-hasan.me)**. Private, read-only repository access or a live code demonstration can be provided upon request.
 
 ---
 
@@ -224,4 +227,18 @@ nexvibe/
 
 ---
 
-*Authored for portfolio and technical evaluation purposes. Demonstrating system design, edge security, and modern full-stack development practices.*
+## 📬 Private Codebase Access for Recruiters & Hiring Teams
+
+Due to company policy and NDA commitments with my previous employer/client, the production repository remains private. 
+
+However, to support thorough technical evaluations:
+- 🔍 **Live Code Walkthrough:** I can demonstrate the codebase, folder architecture, and git commit history during a live technical screen.
+- 🔑 **Temporary Repository Access:** Read-only access to private staging/code repos can be granted to verified recruiters and hiring managers.
+
+📩 **Direct Contact:**  
+Please send an email inquiry with your company/role details to **[hello@mehedi-hasan.me](mailto:hello@mehedi-hasan.me)**.
+
+---
+
+*Authored for technical evaluation and portfolio review. Demonstrating system design, edge security, and production-grade full-stack engineering practices.*
+
